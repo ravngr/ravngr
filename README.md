@@ -16,6 +16,7 @@ I am a researcher with a background in electrical engineering and computer scien
 
 ## Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#302](https://github.com/mampfes/hacs_waste_collection_schedule/issues/302) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
 <!--END_SECTION:activity-->
 
 ## Things I Use
