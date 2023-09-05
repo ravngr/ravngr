@@ -16,7 +16,7 @@ I am a researcher with a background in electrical engineering and computer scien
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/hertzg/rtl_433_docker/issues/88#issuecomment-1701843191) in [hertzg/rtl_433_docker](https://github.com/hertzg/rtl_433_docker)
+1. 🔒 Closed issue [#1](https://github.com/ravngr/usleepstop/issues/1) in [ravngr/usleepstop](https://github.com/ravngr/usleepstop)
 <!--END_SECTION:activity-->
 
 ## Things I Use
