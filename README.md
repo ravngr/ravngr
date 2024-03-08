@@ -16,7 +16,7 @@ I am a researcher with a background in electrical engineering and computer scien
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/ravngr/usleepstop/issues/1) in [ravngr/usleepstop](https://github.com/ravngr/usleepstop)
+1. 🗣 Commented on [#337](https://github.com/LAB02-Research/HASS.Agent/issues/337#issuecomment-1985050154) in [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent)
 <!--END_SECTION:activity-->
 
 ## Things I Use
